@@ -35,3 +35,15 @@ teams, players and match performance using SQL queries.
 - Top batsmen view
 
 ## Screenshots
+
+### Highest Run Scorer
+![Highest Run Scorer](screenshots/highest_run_scorer.jpg)
+
+### Mumbai Indians Matches
+![Mumbai Indians Matches](screenshots/mumbai_indians_matches.jpg)
+
+### Team Wins Analysis
+![Team Wins Analysis](screenshots/team_wins_analysis.jpg)
+
+### Team Total Runs
+![Team Total Runs](screenshots/team_total_runs.jpg)
